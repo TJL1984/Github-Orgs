@@ -8,7 +8,13 @@ ul {
 
 li {
   text-align: center;
-  border: 5px solid ##a3b0c6;
+  border: 2px solid #a3b0c6;
   margin-top: 10%;
-  padding: 10%
+  padding: 10%;
+  padding-bottom: none;
+}
+
+img {
+  width: 100px;
+  float: right; 
 }
